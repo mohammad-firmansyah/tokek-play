@@ -1,6 +1,8 @@
 # tokek-play
 
 ## How to run ?
+- make sure you already install mongodb and nodejs in your computer
+- make a new database in your mongodb named ```tokekplay_db```
 - download the file and unzip it 
 - open your terminal and change your directory to the directory of unziped folder previously
 - run ```npm install``` on your terminal
